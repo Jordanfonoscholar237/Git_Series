@@ -1,0 +1,10 @@
+{
+  "name": "lifeview-central",
+  "version": "1.0.0",
+  "description": "Hospital-wide patient monitoring platform with real-time device data, dashboards, alerts, AI analysis, and mobile/PWA support.",
+  "main": "server.js",
+  "scripts": {"start":"node server.js","dev":"node server.js","smoke":"node scripts/smoke-test.js"},
+  "keywords": ["healthcare","healthtech","patient-monitoring","hospital-management","medical-dashboard","ai-healthcare","iot","nodejs","pwa"],
+  "author": "LifeView Central Team",
+  "license": "MIT"
+}
